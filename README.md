@@ -951,3 +951,28 @@ Sebelum digunakan untuk customer production dalam skala besar:
 10. Jalankan `npm run build` sebelum deployment.
 
 Semua getter utama yang sudah terhubung ke database harus mempertahankan filter `owner_id`. Jangan menghapus RLS untuk mengatasi error permission; perbaiki policy atau data owner-nya.
+
+
+<img width="1400" height="1400" alt="1" src="https://github.com/user-attachments/assets/aa2b763c-33ff-4cd9-8a90-d5e31b53f1cc" />
+<img width="1400" height="1400" alt="2" src="https://github.com/user-attachments/assets/35424e35-c7f3-4318-b10f-80312187e8fb" />
+<img width="1400" height="1400" alt="3" src="https://github.com/user-attachments/assets/821f1023-5c84-454e-92e9-8f1a12ea33ff" />
+<img width="1400" height="1400" alt="4" src="https://github.com/user-attachments/assets/aabc49e8-31ad-44da-ac12-b1ea37bac9e3" />
+<img width="1400" height="1400" alt="5" src="https://github.com/user-attachments/assets/bfaed4b9-773a-4856-95b0-ca2d8a40f0c0" />
+<img width="1400" height="1400" alt="6" src="https://github.com/user-attachments/assets/a75b2fdc-60d3-489c-8b43-6ca75057b5c0" />
+<img width="1500" height="1250" alt="7" src="https://github.com/user-attachments/assets/a3a0c95c-f0dc-4b1e-867f-c51ba8cd488a" />
+<img width="1500" height="1250" alt="8" src="https://github.com/user-attachments/assets/bd6def7f-bbb3-43ff-91ce-904407a9e9ed" />
+<img width="1500" height="1250" alt="9" src="https://github.com/user-attachments/assets/4b388d1a-8b67-4930-bf82-bd49a05870f7" />
+<img width="1500" height="1250" alt="10" src="https://github.com/user-attachments/assets/4cf6fa0c-2ef2-4740-a4b1-9bf8fdf6e56b" />
+
+
+
+
+
+
+
+
+
+
+
+
+
