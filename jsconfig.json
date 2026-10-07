@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./*"]
+    }
+  },
+  "include": [
+    "app/**/*.js",
+    "lib/**/*.js"
+  ],
+  "exclude": [
+    "node_modules",
+    ".next"
+  ]
+}

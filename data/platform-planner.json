@@ -1,0 +1,13 @@
+{
+  "platforms": [
+    "Facebook",
+    "Instagram",
+    "TikTok"
+  ],
+  "content_types": [
+    "video",
+    "image",
+    "story",
+    "carousel"
+  ]
+}
