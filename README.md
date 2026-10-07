@@ -954,7 +954,7 @@ Semua getter utama yang sudah terhubung ke database harus mempertahankan filter 
 
 
 <img width="1400" height="1400" alt="1" src="https://github.com/user-attachments/assets/aa2b763c-33ff-4cd9-8a90-d5e31b53f1cc" />
-<img width="1400" height="1400" alt="2" src="https://github.com/user-attachments/assets/35424e35-c7f3-4318-b10f-80312187e8fb" />
+
 <img width="1400" height="1400" alt="3" src="https://github.com/user-attachments/assets/821f1023-5c84-454e-92e9-8f1a12ea33ff" />
 <img width="1400" height="1400" alt="4" src="https://github.com/user-attachments/assets/aabc49e8-31ad-44da-ac12-b1ea37bac9e3" />
 <img width="1400" height="1400" alt="5" src="https://github.com/user-attachments/assets/bfaed4b9-773a-4856-95b0-ca2d8a40f0c0" />
